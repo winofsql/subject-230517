@@ -10,4 +10,4 @@
 
 ![image](https://github.com/winofsql/subject-230517/assets/1501327/89547b70-a9e7-43b6-9563-c1431991b9f8)
 
-[止める](https://jp.ext.hp.com/v-ivr/common/software/faq/06/)
+[HP Wolf Security を無効にする](https://jp.ext.hp.com/v-ivr/common/software/faq/06/)
