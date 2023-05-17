@@ -7,10 +7,10 @@ public class Main {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("こんにちは世界");
 		
-        String message = "こんにちは世界";
-        
-        // メッセージボックスを表示
-        JOptionPane.showMessageDialog(null, message);
+		String message = "こんにちは世界";
+
+		// メッセージボックスを表示
+		JOptionPane.showMessageDialog(null, message);
 		
 	}
 
