@@ -9,3 +9,5 @@
 ![image](https://github.com/winofsql/subject-230517/assets/1501327/2d074e6f-159d-4970-8aec-8fbd6813f086)
 
 ![image](https://github.com/winofsql/subject-230517/assets/1501327/89547b70-a9e7-43b6-9563-c1431991b9f8)
+
+[止める](https://jp.ext.hp.com/v-ivr/common/software/faq/06/)
