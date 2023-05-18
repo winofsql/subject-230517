@@ -7,7 +7,9 @@
 
 ### 無効に設定すると以下の表示になります
 
-  ![image](https://github.com/winofsql/subject-230517/assets/1501327/eed2196c-aed1-4a84-bed5-7b923af54fe0)
+![image](https://github.com/winofsql/subject-230517/assets/1501327/eed2196c-aed1-4a84-bed5-7b923af54fe0)
+
+### タスクスケジューラを変更して、WOLF アイコンを非表示にします
 
 ![image](https://github.com/winofsql/subject-230517/assets/1501327/b2e6bcaf-d416-4d7b-8876-a5033d5d5692)
 
