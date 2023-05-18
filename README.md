@@ -1,5 +1,11 @@
 # subject-230517
 
+
+
+https://github.com/winofsql/subject-230517/assets/1501327/62fb3368-5cff-4288-bcff-e3dd4a4aee7b
+
+
+
 ### HP 公式
   - ### [HP Wolf Security を無効にする](https://jp.ext.hp.com/v-ivr/common/software/faq/06/)
 
