@@ -17,7 +17,5 @@
 
 ![image](https://github.com/winofsql/subject-230517/assets/1501327/ae99b621-2265-4bbd-b63d-aca7c4ffafad)
 
-![image](https://github.com/winofsql/subject-230517/assets/1501327/5748bde5-c611-4616-b560-a5689b0b9982)
-
-
+![image](https://github.com/winofsql/subject-230517/assets/1501327/64a90d1f-6a5f-4c6e-ad9c-6ad5ed03b552)
 
