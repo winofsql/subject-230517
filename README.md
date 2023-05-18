@@ -11,6 +11,8 @@
 
 ### ✅ タスクスケジューラを変更して、WOLF アイコンを非表示にします
 
+![image](https://github.com/winofsql/subject-230517/assets/1501327/34564879-7987-491c-944d-25f1e2c2f833)
+
 ![image](https://github.com/winofsql/subject-230517/assets/1501327/b2e6bcaf-d416-4d7b-8876-a5033d5d5692)
 
 ![image](https://github.com/winofsql/subject-230517/assets/1501327/a71235cc-84be-4b00-8d5a-9ac15ea9fe4e)
